@@ -46,6 +46,22 @@ The json command file <span class='file'>ease2_system-define_v090.json</span> is
         "xtiles": 20,
         "ytiles": 20
       }
+    },
+    {
+      "processid": "DefineCustomSystem",
+      "overwrite": false,
+      "version": "0.9",
+      "verbose": 3,
+      "parameters": {
+        "systemid": "ease2s",
+        "epsg": 6932,
+        "minx": -9000000,
+        "miny": -9000000,
+        "maxx": 9000000,
+        "maxy": 9000000,
+        "xtiles": 20,
+        "ytiles": 20
+      }
     }
   ]
 }
